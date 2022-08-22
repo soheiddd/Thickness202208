@@ -1,0 +1,8 @@
+pandas
+matplotlib
+plotly.express
+plotly.figure_factory
+plotly.graph_objects
+streamlit
+numpy
+codecs
